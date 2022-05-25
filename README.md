@@ -1,2 +1,2 @@
 # TelebidExam
-Login Authentication with Django and React
+Login Authentication with Django, React and MySQL
